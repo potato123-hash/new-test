@@ -1,2 +1,2 @@
-# new-test
+# Logit lens
 just a test repository
